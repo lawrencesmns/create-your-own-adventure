@@ -8,7 +8,7 @@ Talk to [neighbour](talk_to_neighbour/talk_to_neighbour.md)
 
 Vist the master [liquid](liquid/liquid.md).
 
-Drink some [bear](bear/bear.md)
+Drink some [beer](bear/bear.md)
 
 [play](http://pcottle.github.io/learnGitBranching/) with the (git) branches
 
